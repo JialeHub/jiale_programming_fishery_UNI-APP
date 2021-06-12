@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "本船渔获发布",
+  "usingComponents": {
+    "u-form": "/uview-ui/components/u-form/u-form",
+    "u-upload": "/uview-ui/components/u-upload/u-upload",
+    "u-select": "/uview-ui/components/u-select/u-select",
+    "u-form-item": "/uview-ui/components/u-form-item/u-form-item",
+    "u-input": "/uview-ui/components/u-input/u-input",
+    "u-button": "/uview-ui/components/u-button/u-button",
+    "u-modal": "/uview-ui/components/u-modal/u-modal"
+  }
+}

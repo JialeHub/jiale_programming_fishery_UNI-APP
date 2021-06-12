@@ -1,0 +1,1 @@
+<view style="display:flex;flex-direction:column;"><block wx:if="{{!isLogin}}"><login style="flex:1 1 auto;" vue-id="362056d6-1" bind:__l="__l"></login></block><block wx:if="{{isLogin}}"><person class="vue-ref" style="flex:1 1 auto;" vue-id="362056d6-2" data-ref="personRef" bind:__l="__l"></person></block></view>
