@@ -1,7 +1,0 @@
-{
-  "navigationBarTitleText": "个人中心",
-  "usingComponents": {
-    "login": "/pages/person/login/index",
-    "person": "/pages/person/person/index"
-  }
-}
